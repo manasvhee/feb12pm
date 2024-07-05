@@ -1,3 +1,4 @@
+--This is my old program
 --This is my PL/SQL program 
 select department_id,max(salary) from employees 
 group by department_id
